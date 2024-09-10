@@ -25,7 +25,11 @@
 
 https://20240906book.github.io/09110330/
 
+double-vertical-slider/
 
 
 div習慣了
 移動拖一滑動
+
+把最新發表的 用文字 畫面 寫下來 讓它們觀看 重點
+做成短影音
